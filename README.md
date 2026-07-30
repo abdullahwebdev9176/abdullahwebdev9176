@@ -1,57 +1,105 @@
-# Muhammad Abdullah
-### Frontend & Full-Stack Developer | Marine Industry Web Specialist
+<div align="center">
+  <h1>Hi, I'm Muhammad Abdullah 👋</h1>
+  <p><strong>Full-Stack Developer</strong></p>
 
-I'm **Muhammad Abdullah**, a Frontend Developer with **2 years of professional experience** in web development.
-
-I enjoy building modern, responsive, and user-friendly websites using technologies like **React.js**, **Next.js**, **JavaScript, JQuery**, **Tailwind CSS**, and **Bootstrap**.
-
-Over the past two years, I have worked on **150+ websites** for clients in the marine industry. I have developed new features, integrated APIs, fixed bugs, improved website performance, and optimized websites for SEO.
-
----
-
-## About Me
-- **Education:** 
-  - Bachelor of Computer Science (BCS) - **Virtual University of Pakistan** *(In Progress)*
-  - Bachelor of Arts (BA)
-- **Current/Past Role:** Web Developer at **Vizz Web Solutions** (2+ Years)
-- **Industry Expertise:** Specialized in the **Marine & Yachting Industry**
-  - Successfully built, optimized, and maintained **over 150 websites** in the marine domain.
-  - Worked on high-profile projects like **[Strongs Marine](https://www.strongsmarine.com/)** and other major dealership platforms.
-
----
-
-## Tech Stack & Skills
-
-### **Frontend**
-- **React.js** & **Next.js**
-- **HTML5** & **JavaScript (ES6+)**
-- **Tailwind CSS** & **Bootstrap**
-- **JQuery**
-- **TypeScript**
-
-### **State Management**
-- **Redux** & **Zustand**
-
-### **Backend & Database**
-- **Node.js** & **Express**
+  <p>
+    <a href="https://www.linkedin.com/in/abdullah-fullstackdev/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/abdullah91760?igsh=MWdwcm5kbndjN3Awbg==" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.facebook.com/muhammad.abdullah.658589" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://www.tiktok.com/@cute_saim9176?_r=1&_t=ZS-98RiQwjHIHJ" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+    </a>
+    <a href="mailto:abdullahverse9176@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=abdullahverse9176&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-## Professional Experience
+### 💫 About Me
 
-### **Vizz Web Solutions** (2 Years)
-*Web Developer*
-* Developed, customized, and maintained **150+ websites** for clients in the marine industry.
-* Built responsive and user-friendly websites using **React.js** and **Next.js**.
-* Managed application state using **Redux** and **Zustand**.
-* Created responsive layouts using **Tailwind CSS** and **Bootstrap**.
-* Fixed bugs, added new features, and improved website performance.
-* Worked with designers and team members to deliver client requirements.
+I’m a **Full-Stack Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
+
+Over the past two years, I’ve had the opportunity to work on **150+ websites** for clients across different projects. Along the way, I’ve built custom features, improved existing platforms, and worked on inventory management systems. Some of my experience includes projects in the Marine & Yachting industry, where I contributed to solutions for well-known dealers like **Strongs Marine**.
 
 ---
 
-## Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-abdullah-3467b3202/)
-- **GitHub:** [Your GitHub Profile](https://github.com/abdullahverse9176)
-- **Email:** [your.email@example.com](mailto:abdullahverse9176@gmail.com)
-- **Portfolio:** [Your Portfolio Website Link](https://buildwithabdullah.vercel.app/)
+### ⛵ Industry Domain Expertise
+
+*   **150+ Marine Web Apps:** Built, customized, and improved over 150 websites for yacht and boat dealerships.
+*   **Performance Optimization:** Optimized website speed, compressed media files, and developed custom inventory search features.
+*   **Team Collaboration:** Worked closely with designers and developers to turn ideas into clean, responsive, and user-friendly websites.
+*   **Mentoring & Leadership:** Guided junior developers, reviewed their work, and helped them complete tasks while maintaining code quality and project standards.
+
+---
+
+### 💼 Professional Experience
+
+#### 🏢 **Web Developer** — **Vizz Web Solutions** *(2+ Years)*
+> Worked on modern, high-performance websites, mainly for clients in the marine industry.
+*   Built, customized, and maintained 150+ responsive websites using React.js and Next.js.
+*   Developed clean, responsive, and user-friendly interfaces with Tailwind CSS and Bootstrap.
+*   Used Redux and Zustand for state management in web applications.
+*   Integrated REST APIs, fixed complex issues, and improved website performance and SEO.
+*   Worked closely with designers and other developers to deliver high-quality projects.
+*   Mentored junior developers by reviewing their work, helping them solve technical problems, and guiding them through project tasks.
+
+---
+
+### 🎓 Education
+
+*   **Bachelor of Computer Science (BCS)** — *Virtual University of Pakistan (In Progress)*
+
+---
+
+# 💻 Tech Stack
+
+### 🌐 Frontend & Core Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23333333?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend, Databases & APIs
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛠️ Build Tools, DevOps & Platforms
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🎨 Design & Multimedia
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
